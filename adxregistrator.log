@@ -1,0 +1,47 @@
+Add-in Express Registrator Log File: 10/17/2019 19:35:24
+
+Installation directory: C:\Program Files\WinZip\
+Registrator version: 8.4.4395.0
+Operating System: Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit
+Process Owner: Administrator
+Command Line: "C:\Program Files\WinZip\adxregistrator.exe" /uninstall="C:\Program Files\WinZip\WinZipExpressForOffice.dll" /privileges=user
+Run 'As Administrator': Yes
+Process Elevated: Yes
+Integrity Level: High
+UAC (User Account Control): On
+--------------------------------------------------------------
+19:35:24 0212 Starting the add-in unregistration process.
+19:35:24 0212 Loading mscoree.dll
+19:35:24 0212 Success.
+19:35:24 0212 .NET Framework installation directory: 
+19:35:24 0212 The latest version of .NET Framework: 'v4.0.30319'
+19:35:24 0212 Loading CLR: v4.0.30319.
+19:35:24 0212 Calling CLRCreateInstance method.
+19:35:24 0212 Success.
+19:35:24 0212 Calling GetRuntime method.
+19:35:24 0212 Success.
+19:35:24 0212 Checking if the hosting API of .NET Framework v4.0 beta is installed.
+19:35:24 0212 The hosting API is up to date.
+19:35:24 0212 Calling GetInterface method for the CorRuntimeHost interface.
+19:35:24 0212 Success.
+19:35:24 0212 Starting CLR...
+19:35:24 0212 Success.
+19:35:24 0212 Getting the CLR version.
+19:35:24 0212 The CLR v4.0.30319 has been initialized successfully.
+19:35:24 0212 Creating a new domain setup.
+19:35:24 0212 Success.
+19:35:24 0212 The 'shadow copy' is disabled.
+19:35:24 0212 Creating a new application domain.
+19:35:25 0212 Success.
+19:35:25 0212 Getting the base directory for the domain.
+19:35:25 0212 Success. The directory is 'C:\Program Files\WinZip\'.
+19:35:25 0212 Searching for the Add-in Express core library.
+19:35:25 0212 Success. The 'AddinExpress.MSO.2005.dll' file is found.
+19:35:25 0212 Creating an instance of the 'AddinExpress.Deployment.ADXRegistrator' class.
+19:35:25 0212 Assembly identity is 'AddinExpress.MSO.2005'.
+19:35:25 0212 Success.
+19:35:25 0212 Unwrapping the instance of the 'AddinExpress.Deployment.ADXRegistrator' class.
+19:35:25 0212 Success.
+19:35:25 0212 Calling the managed unregistration procedure (DISPID = 1610743823).
+19:35:25 0212 Unregistration success.
+19:35:25 0212 The add-in unregistration process is completed with HRESULT = 0.
